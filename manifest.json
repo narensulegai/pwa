@@ -1,0 +1,12 @@
+{
+  "short_name": "Test PWA",
+  "name": "Sample app",
+  "description": "Progressive Web Application demonstration",
+  "icons": [
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#29BDBB",
+  "background_color": "#29BDBB"
+}
