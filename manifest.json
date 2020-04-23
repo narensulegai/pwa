@@ -4,7 +4,7 @@
   "description": "Progressive Web Application demonstration",
   "icons": [
   ],
-  "start_url": "./index.html",
+  "start_url": "/pwa/index.html",
   "display": "standalone",
   "orientation": "landscape",
   "theme_color": "#29BDBB",
