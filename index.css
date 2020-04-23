@@ -1,5 +1,19 @@
 .app {
-    height: 1500px;
-    width: 100%;
-    background: gray;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch; /* enables “momentum” (smooth) scrolling */
+    background: #d3d3d3;
+}
+
+.content {
+    width: 50%;
+}
+
+body {
+    overscroll-behavior-y: none;
+    margin: 0;
+    box-sizing: border-box;
+    position: fixed;
+    overflow: hidden;
 }
